@@ -1,7 +1,6 @@
 call plug#begin('~/.vim/plugged')
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-"Plug 'dense-analysis/ale'
 
 " Theme
 Plug 'gruvbox-community/gruvbox'
