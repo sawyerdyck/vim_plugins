@@ -13,8 +13,10 @@ sudo apt install -y vim git curl nodejs npm fzf fonts-firacode universal-ctags c
 ---
 
 ADD PLUGINS TO VIMRC 
-
-vim ~/.vimrc - then paste all plugins manually
+``` Bash
+vim ~/.vimrc
+```
+then paste all plugins manually
 
 OR
 
